@@ -1,0 +1,13 @@
+DOCFLOW-FIXTURE-ID: berlin_007
+Supplier: Berlin Hardware GmbH
+Tax ID: DE-BH-007
+Invoice Number: BH-77821
+Invoice Date: 2024-07-01
+Due Date: 2024-07-31
+Currency: EUR
+PO Reference: PO-DE-19
+Line Items:
+LINE: SSD 1TB | qty 6 | unit 90.00 | total 540.00
+Subtotal: 540.00
+Tax: 102.60
+Total: 642.60

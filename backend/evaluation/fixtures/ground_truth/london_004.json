@@ -1,0 +1,20 @@
+{
+  "supplier_name": "Thames Consulting LLP",
+  "supplier_tax_id": "GB-TC-441",
+  "invoice_number": "TC-INV-004",
+  "invoice_date": "2024-06-30",
+  "due_date": "2024-07-30",
+  "currency": "GBP",
+  "subtotal": "875.00",
+  "tax_amount": "175.00",
+  "total_amount": "1050.00",
+  "purchase_order_reference": "PO-UK-902",
+  "line_items": [
+    {
+      "description": "Advisory day rate",
+      "quantity": "3.5",
+      "unit_price": "250.00",
+      "line_total": "875.00"
+    }
+  ]
+}

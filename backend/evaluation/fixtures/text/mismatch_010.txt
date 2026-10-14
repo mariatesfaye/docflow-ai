@@ -1,0 +1,14 @@
+DOCFLOW-FIXTURE-ID: mismatch_010
+Supplier: Inconsistent Totals Inc.
+Tax ID: IT-010
+Invoice Number: BAD-010
+Invoice Date: 2024-10-15
+Due Date: 2024-11-15
+Currency: USD
+PO Reference: PO-BAD
+Line Items:
+LINE: Widget A | qty 2 | unit 50.00 | total 100.00
+LINE: Widget B | qty 1 | unit 100.00 | total 100.00
+Subtotal: 200.00
+Tax: 16.00
+Total: 220.00

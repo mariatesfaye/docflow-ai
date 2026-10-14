@@ -1,0 +1,38 @@
+{
+  "supplier_name": "Multi Line Wholesale",
+  "supplier_tax_id": "ML-012",
+  "invoice_number": "ML-2024-12",
+  "invoice_date": "2024-12-01",
+  "due_date": "2025-01-01",
+  "currency": "USD",
+  "subtotal": "742.50",
+  "tax_amount": "59.40",
+  "total_amount": "801.90",
+  "purchase_order_reference": "PO-ML-12",
+  "line_items": [
+    {
+      "description": "Item 1",
+      "quantity": "5",
+      "unit_price": "40.00",
+      "line_total": "200.00"
+    },
+    {
+      "description": "Item 2",
+      "quantity": "2",
+      "unit_price": "75.00",
+      "line_total": "150.00"
+    },
+    {
+      "description": "Item 3",
+      "quantity": "3",
+      "unit_price": "60.50",
+      "line_total": "181.50"
+    },
+    {
+      "description": "Item 4",
+      "quantity": "1",
+      "unit_price": "211.00",
+      "line_total": "211.00"
+    }
+  ]
+}

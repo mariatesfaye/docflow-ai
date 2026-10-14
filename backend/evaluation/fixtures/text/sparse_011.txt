@@ -1,0 +1,13 @@
+DOCFLOW-FIXTURE-ID: sparse_011
+Supplier: Sparse Fields Co.
+Tax ID: 
+Invoice Number: SP-011
+Invoice Date: 2024-11-01
+Due Date: 
+Currency: USD
+PO Reference: 
+Line Items:
+LINE: Minimal service | qty 1 | unit 45.00 | total 45.00
+Subtotal: 45.00
+Tax: 0.00
+Total: 45.00

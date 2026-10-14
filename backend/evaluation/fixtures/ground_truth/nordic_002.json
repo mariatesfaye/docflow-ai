@@ -1,0 +1,26 @@
+{
+  "supplier_name": "Nordic Cloud Services AB",
+  "supplier_tax_id": null,
+  "invoice_number": "NC-8842",
+  "invoice_date": "2024-05-01",
+  "due_date": null,
+  "currency": "EUR",
+  "subtotal": "1200.50",
+  "tax_amount": "300.13",
+  "total_amount": "1500.63",
+  "purchase_order_reference": null,
+  "line_items": [
+    {
+      "description": "Platform subscription",
+      "quantity": "1",
+      "unit_price": "999.00",
+      "line_total": "999.00"
+    },
+    {
+      "description": "Support hours",
+      "quantity": "3",
+      "unit_price": "67.17",
+      "line_total": "201.50"
+    }
+  ]
+}

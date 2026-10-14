@@ -1,0 +1,14 @@
+DOCFLOW-FIXTURE-ID: tokyo_003
+Supplier: Tokyo Parts Trading Co.
+Tax ID: JP-TPT-993
+Invoice Number: TPT-2024-019
+Invoice Date: 2024-01-20
+Due Date: 2024-02-19
+Currency: JPY
+PO Reference: PO-JP-12
+Line Items:
+LINE: Sensor module A | qty 2 | unit 30000 | total 60000
+LINE: Sensor module B | qty 1 | unit 38000 | total 38000
+Subtotal: 98000
+Tax: 9800
+Total: 107800

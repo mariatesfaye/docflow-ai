@@ -1,0 +1,13 @@
+DOCFLOW-FIXTURE-ID: rounding_009
+Supplier: Rounding Test Vendor
+Tax ID: RT-009
+Invoice Number: ROUND-009
+Invoice Date: 2024-09-01
+Due Date: 2024-10-01
+Currency: USD
+PO Reference: 
+Line Items:
+LINE: Fractional units | qty 3 | unit 33.34 | total 100.02
+Subtotal: 100.02
+Tax: 8.00
+Total: 108.01

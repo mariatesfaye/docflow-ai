@@ -1,0 +1,26 @@
+{
+  "supplier_name": "Tokyo Parts Trading Co.",
+  "supplier_tax_id": "JP-TPT-993",
+  "invoice_number": "TPT-2024-019",
+  "invoice_date": "2024-01-20",
+  "due_date": "2024-02-19",
+  "currency": "JPY",
+  "subtotal": "98000",
+  "tax_amount": "9800",
+  "total_amount": "107800",
+  "purchase_order_reference": "PO-JP-12",
+  "line_items": [
+    {
+      "description": "Sensor module A",
+      "quantity": "2",
+      "unit_price": "30000",
+      "line_total": "60000"
+    },
+    {
+      "description": "Sensor module B",
+      "quantity": "1",
+      "unit_price": "38000",
+      "line_total": "38000"
+    }
+  ]
+}

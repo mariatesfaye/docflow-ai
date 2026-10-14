@@ -1,0 +1,13 @@
+DOCFLOW-FIXTURE-ID: london_004
+Supplier: Thames Consulting LLP
+Tax ID: GB-TC-441
+Invoice Number: TC-INV-004
+Invoice Date: 2024-06-30
+Due Date: 2024-07-30
+Currency: GBP
+PO Reference: PO-UK-902
+Line Items:
+LINE: Advisory day rate | qty 3.5 | unit 250.00 | total 875.00
+Subtotal: 875.00
+Tax: 175.00
+Total: 1050.00

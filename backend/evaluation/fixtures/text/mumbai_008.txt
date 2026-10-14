@@ -1,0 +1,14 @@
+DOCFLOW-FIXTURE-ID: mumbai_008
+Supplier: Mumbai Analytics Pvt Ltd
+Tax ID: 
+Invoice Number: MA-240808
+Invoice Date: 2024-08-08
+Due Date: 
+Currency: INR
+PO Reference: PO-IN-441
+Line Items:
+LINE: Data pipeline setup | qty 1 | unit 10000.00 | total 10000.00
+LINE: Dashboard build | qty 1 | unit 5000.00 | total 5000.00
+Subtotal: 15000.00
+Tax: 2700.00
+Total: 17700.00

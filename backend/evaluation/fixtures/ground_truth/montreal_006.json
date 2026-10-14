@@ -1,0 +1,26 @@
+{
+  "supplier_name": "Montreal Media Studio",
+  "supplier_tax_id": "CA-MMS-88",
+  "invoice_number": "MMS-2024-06",
+  "invoice_date": "2024-04-05",
+  "due_date": "2024-05-05",
+  "currency": "CAD",
+  "subtotal": "1999.98",
+  "tax_amount": "260.00",
+  "total_amount": "2259.98",
+  "purchase_order_reference": "PO-CA-661",
+  "line_items": [
+    {
+      "description": "Video editing",
+      "quantity": "12",
+      "unit_price": "120.00",
+      "line_total": "1440.00"
+    },
+    {
+      "description": "Color grading",
+      "quantity": "4",
+      "unit_price": "139.995",
+      "line_total": "559.98"
+    }
+  ]
+}

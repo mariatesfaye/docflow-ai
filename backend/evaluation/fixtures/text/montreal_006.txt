@@ -1,0 +1,14 @@
+DOCFLOW-FIXTURE-ID: montreal_006
+Supplier: Montreal Media Studio
+Tax ID: CA-MMS-88
+Invoice Number: MMS-2024-06
+Invoice Date: 2024-04-05
+Due Date: 2024-05-05
+Currency: CAD
+PO Reference: PO-CA-661
+Line Items:
+LINE: Video editing | qty 12 | unit 120.00 | total 1440.00
+LINE: Color grading | qty 4 | unit 139.995 | total 559.98
+Subtotal: 1999.98
+Tax: 260.00
+Total: 2259.98

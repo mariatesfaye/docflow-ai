@@ -1,0 +1,14 @@
+DOCFLOW-FIXTURE-ID: sydney_005
+Supplier: Harbor Logistics Pty
+Tax ID: AU-HL-22
+Invoice Number: HL-5505
+Invoice Date: 2024-02-10
+Due Date: 2024-03-12
+Currency: AUD
+PO Reference: 
+Line Items:
+LINE: Freight handling | qty 1 | unit 260.00 | total 260.00
+LINE: Storage (days) | qty 5 | unit 30.00 | total 150.00
+Subtotal: 410.00
+Tax: 41.00
+Total: 451.00

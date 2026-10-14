@@ -1,0 +1,20 @@
+{
+  "supplier_name": "Sparse Fields Co.",
+  "supplier_tax_id": null,
+  "invoice_number": "SP-011",
+  "invoice_date": "2024-11-01",
+  "due_date": null,
+  "currency": "USD",
+  "subtotal": "45.00",
+  "tax_amount": "0.00",
+  "total_amount": "45.00",
+  "purchase_order_reference": null,
+  "line_items": [
+    {
+      "description": "Minimal service",
+      "quantity": "1",
+      "unit_price": "45.00",
+      "line_total": "45.00"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+DOCFLOW-FIXTURE-ID: acme_001
+Supplier: Acme Office Supplies Ltd.
+Tax ID: US-ACME-001
+Invoice Number: INV-2024-1001
+Invoice Date: 2024-03-15
+Due Date: 2024-04-14
+Currency: USD
+PO Reference: PO-7781
+Line Items:
+LINE: Printer paper (10 reams) | qty 10 | unit 15.00 | total 150.00
+LINE: Ink cartridges | qty 4 | unit 25.00 | total 100.00
+Subtotal: 250.00
+Tax: 20.00
+Total: 270.00

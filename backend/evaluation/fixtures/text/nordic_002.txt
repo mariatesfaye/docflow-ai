@@ -1,0 +1,14 @@
+DOCFLOW-FIXTURE-ID: nordic_002
+Supplier: Nordic Cloud Services AB
+Tax ID: 
+Invoice Number: NC-8842
+Invoice Date: 2024-05-01
+Due Date: 
+Currency: EUR
+PO Reference: 
+Line Items:
+LINE: Platform subscription | qty 1 | unit 999.00 | total 999.00
+LINE: Support hours | qty 3 | unit 67.17 | total 201.50
+Subtotal: 1200.50
+Tax: 300.13
+Total: 1500.63

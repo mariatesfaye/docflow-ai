@@ -1,0 +1,16 @@
+DOCFLOW-FIXTURE-ID: multi_012
+Supplier: Multi Line Wholesale
+Tax ID: ML-012
+Invoice Number: ML-2024-12
+Invoice Date: 2024-12-01
+Due Date: 2025-01-01
+Currency: USD
+PO Reference: PO-ML-12
+Line Items:
+LINE: Item 1 | qty 5 | unit 40.00 | total 200.00
+LINE: Item 2 | qty 2 | unit 75.00 | total 150.00
+LINE: Item 3 | qty 3 | unit 60.50 | total 181.50
+LINE: Item 4 | qty 1 | unit 211.00 | total 211.00
+Subtotal: 742.50
+Tax: 59.40
+Total: 801.90

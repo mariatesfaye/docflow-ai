@@ -1,0 +1,20 @@
+{
+  "supplier_name": "Rounding Test Vendor",
+  "supplier_tax_id": "RT-009",
+  "invoice_number": "ROUND-009",
+  "invoice_date": "2024-09-01",
+  "due_date": "2024-10-01",
+  "currency": "USD",
+  "subtotal": "100.02",
+  "tax_amount": "8.00",
+  "total_amount": "108.01",
+  "purchase_order_reference": null,
+  "line_items": [
+    {
+      "description": "Fractional units",
+      "quantity": "3",
+      "unit_price": "33.34",
+      "line_total": "100.02"
+    }
+  ]
+}

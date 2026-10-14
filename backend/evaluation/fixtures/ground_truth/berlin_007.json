@@ -1,0 +1,20 @@
+{
+  "supplier_name": "Berlin Hardware GmbH",
+  "supplier_tax_id": "DE-BH-007",
+  "invoice_number": "BH-77821",
+  "invoice_date": "2024-07-01",
+  "due_date": "2024-07-31",
+  "currency": "EUR",
+  "subtotal": "540.00",
+  "tax_amount": "102.60",
+  "total_amount": "642.60",
+  "purchase_order_reference": "PO-DE-19",
+  "line_items": [
+    {
+      "description": "SSD 1TB",
+      "quantity": "6",
+      "unit_price": "90.00",
+      "line_total": "540.00"
+    }
+  ]
+}
