@@ -176,7 +176,7 @@ npm run build
 4. Approve/reject
 5. Export JSON/CSV
 
-## Security notes (portfolio scope)
+## Security notes
 
 This demo is single-user and does not include authentication, tenant isolation, retention policies, or production deployment hardening. Do not use it for sensitive financial documents without additional controls.
 
